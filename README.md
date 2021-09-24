@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src = "https://media-exp1.licdn.com/dms/image/C5616AQFj7Zf2nmxIWw/profile-displaybackgroundimage-shrink_350_1400/0/1612356894454?e=1637798400&v=beta&t=Qlgw5QJfpiYszEVgerYRbnhqEflcgQTthms_uY4xYSw"></img>
 <h1 align = "center">Hi there 👋 I'm Akshit Verma</h1>
  
 <h3 align="center">echo since 2001</h3>
