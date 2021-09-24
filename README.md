@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Akshit Verma
-<br>
 <p align = "center">
-    ##echo since 2001
+    <h1>Hi there 👋 I'm Akshit Verma</h1> 
+<br>
+    <h3>echo since 2001</h3>
 </p>
 
 <!--
