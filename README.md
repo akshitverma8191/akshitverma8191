@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning fornt end technologies like - React.
 - 👯 I’m looking to collaborate on real world open source projects
+- ⚡ Fun fact: Visit my portfolio to see my web dev skills - https://akshitverma8191.github.io/portfolio/
 
